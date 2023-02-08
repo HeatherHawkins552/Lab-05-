@@ -1,7 +1,7 @@
-Lab 04 - La Quinta is Spanish for next to Denny’s, Pt. 2
+Lab 05 - Wrangling spatial data
 ================
-Insert your name here
-Insert date here
+Heather Hawkins
+02/08/23
 
 ### Load packages and data
 
